@@ -69,8 +69,8 @@ export const siteConfig = {
       ],
     },
     {
-      company: "alternatestates (Remote)",
-      title: "Node.js & blockchain Engineer",
+      company: "eSpark Consulting Group (Remote)",
+      title: "Node.js & blockchain Engineer (Outsourced to alternatestates)",
       dateRange: "Feb 2024 - Nov 2024",
       bullets: [
         "Developed blockchain applications using <b>Node.js</b> and integrated smart contracts via <b>Ethers.js</b> and <b>Thirdweb SDK</b>.",
